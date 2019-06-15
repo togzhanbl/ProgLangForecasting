@@ -1,0 +1,13 @@
+1. https://www.statista.com/statistics/869092/worldwide-software-developer-survey-languages-used/
+2. https://data.world/grewp/pypl-popularity-of-programming-languages-june-2017
+3. https://www.tiobe.com/tiobe-index/
+4. http://pypl.github.io/PYPL.html
+5. https://www.kaggle.com/jaimevalero/developers-and-programming-languages/downloads/developers-and-programming-languages.zip/2
+6. https://github.com/rssh/dou_pl_questionare
+7.  http://dou.ua/lenta/articles/language-rating-jan-2015/
+8.  http://dou.ua/lenta/articles/language-rating-jan-2014/
+9.  http://dou.ua/lenta/articles/language-rating-jan-2013/
+10. http://dou.ua/lenta/articles/language-rating-1h2012/
+11. http://www.developers.org.ua/lenta/articles/programming-languages-rating-2011-07/
+12. http://www.developers.org.ua/archives/rssh/2010/12/14/programming-languages-rating-2010/
+13. https://unpickable-twirls.000webhostapp.com
